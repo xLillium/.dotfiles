@@ -23,4 +23,5 @@ cd ~/path/to/.dotfiles
 stow --target=$HOME --restow */
 ```
 
+[venture]: https://github.com/venthur
 [stow]: https://www.gnu.org/software/stow/
