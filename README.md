@@ -1,6 +1,6 @@
 ## My Personal Dotfiles
 
-> **Note:** Thanks to [venture][] for the inspiration.
+> **Note:** Thanks to [venthur][] for the inspiration.
 
 This repo uses [stow][stow] to manage the symlinks, but you don't **have** to --
 you can also just individually symlink the contents of each directory directly
@@ -23,5 +23,5 @@ cd ~/path/to/.dotfiles
 stow --target=$HOME --restow */
 ```
 
-[venture]: https://github.com/venthur
+[venthur]: https://github.com/venthur
 [stow]: https://www.gnu.org/software/stow/
