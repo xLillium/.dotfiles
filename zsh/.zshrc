@@ -25,7 +25,7 @@ POWERLEVEL9K_SHORTEN_DIR_LENGTH=1
 # Uncomment the following line if pasting URLs and other text is messed up.
 # DISABLE_MAGIC_FUNCTIONS="true"
 
-plugins=( git tmux zsh-syntax-highlighting )
+plugins=( git tmux zsh-autosuggestions zsh-syntax-highlighting )
 
 source $ZSH/oh-my-zsh.sh
 source ~/.zprofile
